@@ -39,6 +39,20 @@ The business needs to answer eight connected questions:
 
 The project uses the European e-commerce profitability challenge dataset supplied for the ZoomCharts Power BI Challenge. The data covers 2024-2025 and contains more than 9,000 order-line records.
 
+| Table | Content |
+| --- | --- |
+| `FactOrderLine` | 9,109 order lines with quantities, price, discount, refund, shipping, product cost, fulfillment, payment fee, marketing and return costs, contribution revenue and margin, lost sales value, return loss, delivery days and on-time flag |
+| `DimProduct` | 60 products across 2 departments, 5 categories, 15 subcategories, 10 brands and 3 brand tiers (Value, Core, Premium) |
+| `DimCustomer` | 2,200 customers with segment, loyalty tier, acquisition channel, age band, cohort and preferred category |
+| `DimGeography` | 6 regions, 12 countries, 24 cities |
+| `DimPromotion` | 10 promotion records (9 campaigns plus "No promotion") with objective, discount type and rate |
+| `DimSalesChannel` | Website, Mobile App, Marketplace and Social Shop, grouped into 3 channel groups, with payment fee rates |
+| `DimFulfillment` | 3 fulfillment models, 6 centers, 5 carriers and 4 service levels |
+| `DimReturnReason` | Return reasons grouped into fit/preference, product quality, expectation gap and fulfillment issue |
+| `DimCohortAge` | Months since first purchase (0 to 24+) mapped to lifecycle stages |
+| `DimDate` | Calendar table used for all time analysis |
+
+
 Key data points include:
 
 - Order-line transactions, order dates, status, quantities, and currencies
