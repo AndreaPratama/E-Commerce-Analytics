@@ -1,5 +1,7 @@
 # European E-commerce Profitability Dashboard
 
+![Dashboard overview](hero_e_commerce.jpg)
+
 A decision-ready Power BI report built for the ZoomCharts Power BI Challenge. The dashboard analyzes European e-commerce performance from gross sales through contribution margin, helping stakeholders understand where growth creates value and where discounts, returns, delivery issues, and stock constraints reduce it.
 
 ## 1. Introduction
@@ -67,6 +69,8 @@ Key data points include:
 - Stock status, opening stock, ordered units, fulfilled units, and returned units
 
 The source workbook is included in the project folder as `ecommerce_profitability_challenge_data.xlsx`.
+
+[ZoomCharts Power BI Challenges](https://zoomcharts.com/en/microsoft-power-bi-custom-visuals/challenges/)
 
 ## 5. Data Transformation
 
@@ -308,5 +312,4 @@ Shift growth investment toward high-margin categories and mobile-app or loyal-cu
 ## Related Resources
 
 - [ZoomCharts Power BI Challenges](https://zoomcharts.com/en/microsoft-power-bi-custom-visuals/challenges/)
-- [ZoomCharts Drill Down PRO Visuals](https://zoomcharts.com/en/microsoft-power-bi-custom-visuals/)
-- [Example project README](https://github.com/AndreaPratama/Transportation-Logistic-Tracking)
+- [Data Source](ecommerce_profitability_challenge_data.xlsx)
