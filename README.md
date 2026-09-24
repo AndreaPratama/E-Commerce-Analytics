@@ -315,5 +315,5 @@ Shift growth investment toward high-margin categories and mobile-app or loyal-cu
 
 ## Related Resources
 
-- [ZoomCharts Power BI Challenges](https://zoomcharts.com/en/microsoft-power-bi-custom-visuals/challenges/)
+- [ZoomCharts Power BI Challenges](https://zoomcharts.com/en/microsoft-power-bi-custom-visuals/challenges/zoomcharts-power-bi-challenge-september-2026)
 - [Data Source](ecommerce_profitability_challenge_data.xlsx)
