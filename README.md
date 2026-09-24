@@ -1,4 +1,4 @@
-# European E-commerce Profitability Dashboard
+# E-commerce Analytics Dashboard
 
 ![Dashboard overview](hero_e_commerce.jpg)
 
