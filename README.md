@@ -289,6 +289,10 @@ Key insight:
 - The Preferred Category HTML KPI uses a 697 x 360 layout with text on the left, a category illustration on the right, a gradient background, and animated interaction states.
 - Country flag URLs are categorized as `ImageUrl` for geographic visuals.
 
+You can interact with report here [4U Report](https://app.powerbi.com/view?r=eyJrIjoiMWM1ZjYwYjktMjA1OC00NTVmLWI5MDEtYjhiNzUyNDA2YWU3IiwidCI6IjQ2NTRiNmYxLTBlNDctNDU3OS1hOGExLTAyZmU5ZDk0M2M3YiIsImMiOjl9)
+
+![](dashboard.png)
+
 ## 8. Conclusion
 
 The business is growing fast and margins are improving, but profit is being held back by four fixable issues: deep discounts, low-margin Electronics, Fashion returns and stock availability. Recommended actions:
