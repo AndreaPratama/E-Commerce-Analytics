@@ -1,4 +1,4 @@
-# E-commerce Analytics Dashboard
+# E-Commerce Analytics Dashboard
 
 ![Dashboard overview](hero_e_commerce.jpg)
 
