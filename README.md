@@ -291,7 +291,7 @@ Key insight:
 
 You can interact with report here [4U Report](https://app.powerbi.com/view?r=eyJrIjoiMWM1ZjYwYjktMjA1OC00NTVmLWI5MDEtYjhiNzUyNDA2YWU3IiwidCI6IjQ2NTRiNmYxLTBlNDctNDU3OS1hOGExLTAyZmU5ZDk0M2M3YiIsImMiOjl9)
 
-![](dashboard.png)
+![](dashboard_e_commerce.png)
 
 ## 8. Conclusion
 
