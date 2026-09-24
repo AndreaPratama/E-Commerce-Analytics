@@ -303,7 +303,7 @@ The business is growing fast and margins are improving, but profit is being held
 4. **Shift growth toward higher-margin channels.** Prioritize the mobile app, website, organic search and CRM over marketplace and paid social, and use loyalty programs to convert New and At Risk customers into repeat buyers.
 5. **Fix delivery weak spots.** Review the GLS / Madrid Hub contract for Spain and Italy, and reserve Express for orders that can absorb the extra shipping cost.
 
-## 9. Actionable Recommendation
+## 9. Recommendation
 
 Shift growth investment toward high-margin categories and mobile-app or loyal-customer opportunities, while reducing value leakage through targeted electronics margin actions, return-prevention initiatives, carrier performance management, and stock availability improvements.
 
