@@ -287,7 +287,13 @@ Key insight:
 
 ## 8. Conclusion
 
-The dashboard shows that the business has meaningful scale and strong operational performance, but profitability is uneven. Beauty, mobile-app customers, and loyal customer segments are attractive value pools. Electronics, marketplace and social commerce activity, returns, and carrier variation require closer management.
+The business is growing fast and margins are improving, but profit is being held back by four fixable issues: deep discounts, low-margin Electronics, Fashion returns and stock availability. Recommended actions:
+
+1. **Cap discounts at 10-15%.** Retire Clearance 35% and Weekend Flash 25%, and put the budget into Bundle & Save and loyalty offers.
+2. **Fix Electronics before Q4.** Reprice or renegotiate cost for negative-margin Tech items and raise safety stock, since Electronics drives half of lost sales.
+3. **Cut Fashion returns.** Add size guides and fit tools, and tighten quality and packaging checks to reduce defective and damaged returns.
+4. **Shift growth toward higher-margin channels.** Prioritize the mobile app, website, organic search and CRM over marketplace and paid social, and use loyalty programs to convert New and At Risk customers into repeat buyers.
+5. **Fix delivery weak spots.** Review the GLS / Madrid Hub contract for Spain and Italy, and reserve Express for orders that can absorb the extra shipping cost.
 
 ## 9. Actionable Recommendation
 
